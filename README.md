@@ -4,8 +4,8 @@
 #### User can create his account, authorised, upload his resume in appropriate account, choose actual vacancies, send the resume with covering letter via e-mail, can manage his job searching and make notes. 
 ## 2. Technologies
 - Java 8
+- Spring Boot 2.1.12.RELEASE
 - Spring Framework (IoC)
-- Spring Boot
 - Spring Web
 - Spring Data
 - Spring Security
